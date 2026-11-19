@@ -14,7 +14,7 @@ HTML · CSS · JavaScript · PHP · MySQL · Git
 - LinkedIn: www.linkedin.com/in/samuel-mbithi-b5b852303
 
 
-- Email: sammycylone@gmail.com
+- Email: samueljohn6926@gmail.com
 
 <!--
 **mordecai-sam/mordecai-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
